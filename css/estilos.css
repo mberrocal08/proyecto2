@@ -1,0 +1,25 @@
+.bd-placeholder-img {
+  font-size: 1.125rem;
+  text-anchor: middle;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  user-select: none;
+}
+
+@media (min-width: 768px) {
+  .bd-placeholder-img-lg {
+    font-size: 3.5rem;
+  }
+}
+header {
+  background: #CCC;
+}
+.row {
+  margin: 40px 0 !important;
+}
+.btn-primary {
+  color: #fff;
+  background-color: #09d08bb6 !important;
+  border-color: #09d08bb6 !important;
+}
+
